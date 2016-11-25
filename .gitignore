@@ -1,0 +1,4 @@
+public/dist/*
+public/lib/*
+public/*.js*
+node_modules/*
